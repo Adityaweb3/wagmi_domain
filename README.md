@@ -1,6 +1,9 @@
-# Sample Hardhat Project
+#WAGMI NAME SERVICE 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Your Own ENS TYPE service 
+
+Complete explanation : https://www.loom.com/share/58130ff6b8f04ebbbf66a20d2d57fed4
+
 
 Try running some of the following tasks:
 
