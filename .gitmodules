@@ -1,0 +1,3 @@
+[submodule "ens_domain_app"]
+	path = ens_domain_app
+	url = https://github.com/Adityaweb3/ens_domain_app.git
